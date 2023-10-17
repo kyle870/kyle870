@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻I'm currently developing my skills as a full stack developer.<br>🎢Currently 1 year of experience working with Angular and NodeJS
+💻I'm currently developing my skills as a full stack web developer.<br>🎢Currently 1 year of experience working with Angular and NodeJS
 
 
 ## 🌐 Socials:
